@@ -63,3 +63,32 @@ EduFusionAI is an intelligent offline exam surveillance solution built using AI,
    cd EduProtor
    npm install
    npm start
+## 🔮 Future Enhancements
+
+- Integration of ML backend with frontend dashboard  
+- Real-time alert overlays and visual logs  
+- Audio-based detection of whispers  
+- Mobile app for remote invigilation  
+- Cloud-based storage for large-scale deployment  
+
+## 📚 References
+
+- TensorFlow, OpenCV, YOLOv8  
+- React.js, Django, SQLite  
+- Research papers and educational tools  
+
+## 👩‍💻 Developed By
+
+- Ved Darji (IAR/12332)  
+- Hemanshi Prajapati (IAR/12418)  
+**Under the guidance of Mr. Vikrant Madnure**  
+Institute of Advanced Research, Gandhinagar  
+2024-25  
+
+<!-- 
+📌 GitHub Description (for repo overview):
+AI-powered offline exam surveillance system using computer vision. Detects cheating activities (face, gaze, object, pose) with no internet required. Future-ready with a React + Django dashboard.
+-->
+
+
+    
